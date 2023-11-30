@@ -1,10 +1,14 @@
 body {background-color: pink; }
 h1 {color:aqua; text-align:center}
 body {font-family: sans-serif; font-size:18px;}
-#intro { border: 6px dotted plum}
-#intro {border: 6px dotted plum}
-#intro {border: 6px dotted plum}
+#table { border: 6px dotted plum}
+#images {border: 6px dotted plum}
+#footer {border: 6px dotted plum}
 body {text-align: center;}
 /* Hi There! */
 img {max-width: 80%; max-height: 80%;} 
 /* test */
+#txt-counter.odd {color:blueviolet}
+li:nth-child(even) {
+    color: blueviolet;
+}
