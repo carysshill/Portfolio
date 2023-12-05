@@ -1,4 +1,4 @@
-console.log("Hello World")
+aconsole.log("Hello World")
 console.log(new Date().getFullYear())
 document.getElementById("footer").innerHTML = ("Free to use under the Unsplash License "+(new Date().getFullYear()))
 sayHello = () => {

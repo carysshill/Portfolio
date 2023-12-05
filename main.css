@@ -1,5 +1,5 @@
 body {background-color: pink; }
-h1 {color:aqua; text-align:center}
+h1 {color:aqua; text-align:center; font-family: 'montserrat alternates'; font-size: 65px;}
 body {font-family: sans-serif; font-size:18px;}
 #table { border: 6px dotted plum}
 #images {border: 6px dotted plum}
