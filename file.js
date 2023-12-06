@@ -1,11 +1,11 @@
-aconsole.log("Hello World")
+console.log("Hello World")
 console.log(new Date().getFullYear())
 document.getElementById("footer").innerHTML = ("Free to use under the Unsplash License "+(new Date().getFullYear()))
 sayHello = () => {
         alert("hey girl");
 }
 document.getElementById('Cute-Dogs').onmouseover = () => { 
-    document.getElementById('Cute-Dogs').innerText =  'boo';
+    document.getElementById('Cute-Dogs').innerText =  'boo!!';
 };
 document.getElementById('Cute-Dogs').onmouseleave = () => {
     document.getElementById('Cute-Dogs').innerText = 'Cute Dogs';
